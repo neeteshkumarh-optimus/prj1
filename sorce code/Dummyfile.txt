@@ -1,3 +1,5 @@
 hello it is a dummy file created to test the scm exercise.
 myself neetesh kumar singh.
 neeteshkumar.singh@optimus info.com
+
+neeteshkumarsingh@mpgi.edu.in
